@@ -9,7 +9,7 @@ How to use
 
 1) Obtain Tinkoff Invest token from [https://www.tinkoff.ru/invest/settings/](https://www.tinkoff.ru/invest/settings/)
 
-2) Download latest release
+2) Download the latest release
 
     ```shell
     cd $HOME
