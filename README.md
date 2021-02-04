@@ -1,7 +1,7 @@
 tinkoff-invest-status
 =====================
 
-Working with [Tinkoff Invest OpenAPI](https://github.com/TinkoffCreditSystems/invest-openapi). Returns portfolio and
+Works with [Tinkoff Invest OpenAPI](https://github.com/TinkoffCreditSystems/invest-openapi). Returns portfolio and
 currencies to STDOUT in JSON format.
 
 How to use
